@@ -1,9 +1,7 @@
 ![Welcome](./hello_me.png)
-
+Galaxy and Nebula
 ### Hey, I'm Mohamed 👋  
 Wanna explore my projects? Scroll down!
-<img width="1371" alt="DashBoard" src="https://github.com/user-attachments/assets/8c8167dd-124a-410b-800a-dc3baa8dd40c" />
-
 
 
 # HealthCare-SQL-Tableau
