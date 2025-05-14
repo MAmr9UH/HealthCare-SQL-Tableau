@@ -1,7 +1,6 @@
 ![Welcome](./hello_me.png)
 Galaxy and Nebula
-### Hey, I'm Mohamed 👋  
-Wanna explore my projects? Scroll down!
+
 
 
 # HealthCare-SQL-Tableau
