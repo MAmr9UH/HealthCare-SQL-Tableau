@@ -1,6 +1,3 @@
-![Welcome](./hello_me.png)
-Galaxy and Nebula
-
 
 
 # HealthCare-SQL-Tableau
